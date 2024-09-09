@@ -1,0 +1,24 @@
+body{
+    background-image: url(./img/dolar.png);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    font-size: larger;
+    font-style: bold;
+}
+
+fieldset{
+    width: 300px;
+
+    margin-top: 200px;
+
+    border-radius: 5px;
+
+    background-color: azure;
+    opacity: 0.8;
+}

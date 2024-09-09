@@ -1,0 +1,19 @@
+body{
+    background-image: url(./img/fundo_clima.png);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    
+    color: white;
+
+
+}
+fieldset{
+    font-size: larger;
+
+    width: 400px;
+
+    border-radius: 5px;
+}
+hr{
+    width: 450px;
+}
